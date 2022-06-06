@@ -86,13 +86,14 @@ body {
 
 .slide { 
     width: 25%;
-    position: relative  ;
+    position: relative;
     transition: 2s;
 }
 
 .slide img { 
     width: 100%;
 }
+
 
 /* Localizando os Botões*/
 .manual-navigation {
